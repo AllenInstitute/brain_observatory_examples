@@ -1,1 +1,1 @@
-tutorials_and_examples
+Example tutorials that we have developed for trainings and courses.

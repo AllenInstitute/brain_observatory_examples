@@ -3,3 +3,4 @@
 *-checkpoint.ipynb
 .local/
 .ipython/
+.jupyter/

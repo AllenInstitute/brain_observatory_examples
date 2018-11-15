@@ -1,3 +1,5 @@
 *.json
 *.nwb
 *-checkpoint.ipynb
+.local/
+.ipython/

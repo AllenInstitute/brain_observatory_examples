@@ -1,2 +1,2 @@
--r gallery/requirements.txt
--r tutorial/requirements.txt
+-r ../gallery/requirements.txt
+-r ../tutorial/requirements.txt

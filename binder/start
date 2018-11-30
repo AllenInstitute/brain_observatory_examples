@@ -1,0 +1,5 @@
+#!/bin/bash
+export BRAIN_OBSERVATORY_MANIFEST=~/brain_observatory_data/manifest.json
+
+exec "$@"
+
